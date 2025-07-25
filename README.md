@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eusra03
-- 👀 I’m interested in A.I
+  
 - 
 - 
   
