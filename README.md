@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eusra03
-  
-- 
+-  I am a CSE student
+-  I am AI,DS and Cybersecurity Enthusiat
 - 
   
 
