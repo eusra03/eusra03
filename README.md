@@ -1,6 +1,4 @@
-👋 Hi, I’m @eusra03
-- CSE undergrad who spends time somewhere between building software and digging into research.
-- An AI/ML and Data Science Enthusiast, but also interested in exploring cybersecurity.
+Hi, I’m @eusra03, a CSE undergrad who spends time somewhere between building software, digging into research, and gaming. I am an AI/ML and Data Science Enthusiast, and open to exploring cybersecurity.
 I'm happy to chat about ML, research, or projects. Feel free to open an issue or reach out.
   
   
