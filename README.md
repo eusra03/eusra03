@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @eusra03
--  I am a CSE student
--  I am an AI/ML, Data Science and Cybersecurity Enthusiast
+- I am a CSE student
+- I enjoy coding and building both software and hardware a lot.
+- I am an AI/ML and Data Science Enthusiast, but also interested in exploring cybersecurity.
   
   
 
